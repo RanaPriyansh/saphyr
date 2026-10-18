@@ -1,0 +1,94 @@
+{
+  "corpora": {
+    "late_invalid_10": {
+      "bytes": 65600,
+      "file": "late-invalid-10-4096.yaml",
+      "sha256": "2b4c99851ccdea18afa8673db99dd9bb1acac9a3345cd21bc8162472390f8046"
+    },
+    "late_invalid_16": {
+      "bytes": 65632,
+      "file": "late-invalid-16-4096.yaml",
+      "sha256": "c6e3b64a600e5d5f1f1b886edd0f35a75af1d1f44cb57f26e240aed33ec6b9ce"
+    },
+    "late_invalid_8": {
+      "bytes": 65632,
+      "file": "late-invalid-8-4096.yaml",
+      "sha256": "f35c5996965e048d6d94a90f64dbe16b40d04905371ccaa6df18c77539247625"
+    },
+    "length_10_1024": {
+      "bytes": 16432,
+      "file": "length-10-1024.yaml",
+      "sha256": "99684428df70a13d0fc6027cb4d88fac65ed71010d5e8dc90083543804b17225"
+    },
+    "length_10_256": {
+      "bytes": 4144,
+      "file": "length-10-256.yaml",
+      "sha256": "6db84d5dd12f99a019d55306a318e9674078e5872152daed168247b0eb87719f"
+    },
+    "length_10_4096": {
+      "bytes": 65584,
+      "file": "length-10-4096.yaml",
+      "sha256": "dd580453440a85211961fbfb23350c50e3b7f468791522ae1879bc0c86ce3d0d"
+    },
+    "length_10_64": {
+      "bytes": 1072,
+      "file": "length-10-64.yaml",
+      "sha256": "cbe8894c5c20dd03d80a5312e8d0301586e5a09bcce5498d658ce7fcae84199a"
+    },
+    "length_16_1024": {
+      "bytes": 16464,
+      "file": "length-16-1024.yaml",
+      "sha256": "35ab91fc95b0d199e1c0a64114cbe2f5fbb244d3aa33723d38dcf3143503ea17"
+    },
+    "length_16_256": {
+      "bytes": 4176,
+      "file": "length-16-256.yaml",
+      "sha256": "f559b001290d80c3b862f366d3694088b6895d8b40eee4d8336830160a7fd331"
+    },
+    "length_16_4096": {
+      "bytes": 65616,
+      "file": "length-16-4096.yaml",
+      "sha256": "88b3f0fbd906c45e04c4da27ef3155342805438a015fca80bb347e10cf698785"
+    },
+    "length_16_64": {
+      "bytes": 1104,
+      "file": "length-16-64.yaml",
+      "sha256": "21f08dbdcab0bc2b70bee1fd31d282e2211c5645b7216a5f2f2f74e847b29c7b"
+    },
+    "length_8_1024": {
+      "bytes": 16464,
+      "file": "length-8-1024.yaml",
+      "sha256": "1b364da0b97a92e6e0a0cc97dd5ceacdce8044cb04665db7b8468d6ca2b9478f"
+    },
+    "length_8_256": {
+      "bytes": 4176,
+      "file": "length-8-256.yaml",
+      "sha256": "8bc352a19b7a542645400751bf7fd3c48592e831dd7b1194676497cd15f4e50e"
+    },
+    "length_8_4096": {
+      "bytes": 65616,
+      "file": "length-8-4096.yaml",
+      "sha256": "c01cca52d3a3519c84d59352e5508ab248a1f740fb7cc68bd4508eae04600ba4"
+    },
+    "length_8_64": {
+      "bytes": 1104,
+      "file": "length-8-64.yaml",
+      "sha256": "b7a24041f0d5f4008c47caa0147c6f2d9b1e3ff04d979244a56ad232aadeec04"
+    },
+    "ordinary_scalar": {
+      "bytes": 3670016,
+      "file": "ordinary-scalar.yaml",
+      "sha256": "f20fa7b046581a36bb542f6a72979d7e0407fd15932305cb8d068ce7440a2e4b"
+    },
+    "overflow_mixture": {
+      "bytes": 745472,
+      "file": "overflow-mixture.yaml",
+      "sha256": "c0c9a636dac4b0a0c87c388a573704f9fa4e0b623b325caa4ad7d4b44c8deb6e"
+    }
+  },
+  "format": 1,
+  "length_values_per_file": 16,
+  "python_integer_conversion_limit": 8192,
+  "rows_ordinary_scalar": 65536,
+  "rows_overflow_mixture": 8192
+}
